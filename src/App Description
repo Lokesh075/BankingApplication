@@ -1,3 +1,3 @@
-This is a console application that represent the basic bank operations such user creation,
-performing account actions(Deposit,withdrwa,money transfer). 
+This is a console application that represent the basic bank operations such as user creation,
+performing account actions(Deposit,withdraw,money transfer). 
 Also it holds the history and details of the user and transcation in separate files.
